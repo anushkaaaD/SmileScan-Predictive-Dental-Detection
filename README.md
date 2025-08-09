@@ -37,13 +37,6 @@
 
 ## 📂 Project Files
 - [📄 Detailed Project Documentation & Report (PDF)](https://drive.google.com/file/d/1nYuwHN9WJAXAVf-0qrO2qIXXsFtmSbDc/view)  
-- **Additional Repos/Folders (if applicable):**  
-  - `hardware/` — Raspberry Pi setup and circuit schematics  
-  - `ml_models/` — YOLO, Mediapipe, MobileNet inference scripts  
-  - `web_app/` — Django application source code  
-  - `aws_deploy/` — Deployment scripts and configuration files
-
----
 
 ## 📬 Let's Connect
 I’m always open to discussing innovative tech, project management strategies, or potential collaborations.  
